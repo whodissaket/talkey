@@ -1,4 +1,4 @@
-#talkey📲#
+#talkey📲
 
 Talkey is a real time messenger Chat App made using React ,Firebase and ChatEngine
 
